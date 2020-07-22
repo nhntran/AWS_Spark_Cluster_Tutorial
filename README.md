@@ -2,7 +2,7 @@
 ### A clear, easy-to-follow tutorial for beginners
 
 ---
-The nice write-up version of this tutorial could be found on [my blog post on Medium].(https://medium.com/@tranhnnguyenvn/how-to-create-and-run-an-emr-cluster-using-aws-cli-3a78977dc7f0?source=friends_link&sk=eca90ab3f969835f8c5ea221a536db0f "EMR cluster using AWS CLI")
+The nice write-up version of this tutorial could be found on [my blog post on Medium](https://medium.com/@tranhnnguyenvn/how-to-create-and-run-an-emr-cluster-using-aws-cli-3a78977dc7f0?source=friends_link&sk=eca90ab3f969835f8c5ea221a536db0f "EMR cluster using AWS CLI")
 
 ## Motivation for this tutorial
 
